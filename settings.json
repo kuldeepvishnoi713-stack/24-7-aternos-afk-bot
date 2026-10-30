@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Dispenser-Q7Mo.aternos.me",
+    "port": 51701,
     "version": "1.20.1",
     "try-creative": false
   },
